@@ -1,0 +1,33 @@
+asgiref==3.2.10
+Babel==2.8.0
+Django==3.1.1
+django-cors-headers==3.5.0
+django-jsonfield==1.4.0
+django-phonenumber-field==5.0.0
+django-rest-framework==0.1.0
+django-rest-knox==4.1.0
+django-restframework==0.0.1
+djangorestframework==3.11.1
+gunicorn==20.1.0
+jsonfield==3.1.0
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+numpy==1.21.0
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
+opencv-python==4.5.1.48
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
+pandas @ file:///C:/ci/pandas_1592833613419/work
+pandocfilters==1.4.2
+phonenumbers==8.12.9
+Pillow==8.2.0
+PyJWT==1.7.1
+pytz==2020.1
+scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
+scipy @ file:///C:/ci/scipy_1592916963468/work
+sqlparse==0.3.1
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.4.1
+tensorflow-estimator==2.4.0
+urllib3==1.25.10
+whitenoise==5.3.0
