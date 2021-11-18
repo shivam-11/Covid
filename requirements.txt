@@ -23,9 +23,5 @@ pytz==2020.1
 scikit-learn
 scipy
 sqlparse==0.3.1
-tensorboard==2.4.1
-tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
-tensorflow-estimator==2.4.0
 urllib3==1.25.10
 whitenoise==5.3.0
