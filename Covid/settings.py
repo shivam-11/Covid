@@ -26,7 +26,7 @@ SECRET_KEY = '10^bjhm*96_t@o^!%3j^+*w4_n_br+-t144v*4c_r#%mqk9kgz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['covidexperiment']
+ALLOWED_HOSTS = ['covidexperiment.herokuapp.com']
 
 
 # Application definition
